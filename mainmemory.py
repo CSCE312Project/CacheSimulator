@@ -8,9 +8,10 @@
 
 class MainMemory:
     def __init__(self):
-
+        content = {}
 
     def readFromFile(self):
-
+        pass
 
     def addAddress(self):
+        pass
