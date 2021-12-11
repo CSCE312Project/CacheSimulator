@@ -10,5 +10,6 @@ How to run the program:
   -CacheSimulator.py
   -input.txt
   -Set.py
+  
 2.Navigate to that directory and run the following command(don't include the quotes)
   "python3 cachesimulator.py input.txt"
